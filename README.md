@@ -46,6 +46,7 @@ Sono continuamente alla ricerca di nuove opportunità per applicare e ampliare q
 ## 📫 Come Raggiungermi
 - **Email**: g.ceccobelli@outlook.it
 - **LinkedIn**: www.linkedin.com/in/giorgio-ceccobelli
+- Vuoi saperne di più su di me? Dai un'occhiata al mio [Curriculum](https://www.canva.com/design/DAFzybRhHzc/lq6EDMUjhPeWSXxWexyWEg/view?utm_content=DAFzybRhHzc&utm_campaign=designshare&utm_medium=link&utm_source=editor)!
 
 ## 📊 Statistiche GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GioGio4&layout=donut)
