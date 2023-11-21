@@ -27,7 +27,7 @@ Sono orgoglioso di aver sviluppato una solida base in una varietà di tecnologie
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-Sono continuamente alla ricerca di nuove opportunità per applicare e ampliare queste competenze in progetti sfidanti e innovativi.
+Sono continuamente alla ricerca di nuove opportunità per applicare e ampliare queste competenze in progetti innovativi.
 
 <!--
 ## 📌 Progetti in Evidenza
